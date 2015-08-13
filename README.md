@@ -1,4 +1,4 @@
-# twitch-plays-roommate
+# Twitch Plays Roommate
 
 This repository will hold the code that controls the twitch plays roommate expirament. 
 
